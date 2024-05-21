@@ -13,7 +13,7 @@ public class Meteorito2 extends Actor
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     
-    private int speed = 2; 
+    private int speed = 2; // COMENTARIO PARA GIT
     private int delay = 50; // Retraso inicial en actos antes de comenzar a moverse
     private int actCount = 0; // Contador de actos
     
