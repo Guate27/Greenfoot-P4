@@ -36,6 +36,12 @@ public class Ship2 extends Actor
         if(Greenfoot.isKeyDown("left")) {
             setLocation(getX(), getY() + MOVE_AMOUNT); 
         }
+        
+        if(Greenfoot.isKeyDown("right")) {
+            setLocation(getX(), getY() + MOVE_AMOUNT); 
+        }
+
+        
     }
     
     public void extremos()
