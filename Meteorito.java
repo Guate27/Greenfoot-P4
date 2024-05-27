@@ -43,7 +43,9 @@ public class Meteorito extends Actor
         {
             World world;
             world = getWorld();
+            Greenfoot.playSound("explosion.mp3");
             world.removeObject(ship);
+            Greenfoot.setWorld(new Inicio());
         }
     }
     
