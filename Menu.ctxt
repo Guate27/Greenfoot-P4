@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=Menu()
+comment2.params=image\ text
+comment2.target=void\ drawTitle(greenfoot.GreenfootImage,\ java.lang.String)
+comment3.params=image\ text\ y\ buttonColor
+comment3.target=void\ drawButton(greenfoot.GreenfootImage,\ java.lang.String,\ int,\ greenfoot.Color)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
